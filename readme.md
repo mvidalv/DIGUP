@@ -1,0 +1,1 @@
+DIGUP is a program that detects incompatible genealogies among populations for unphased data.
